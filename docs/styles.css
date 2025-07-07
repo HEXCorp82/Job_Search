@@ -1,1 +1,11 @@
+#mindmap {
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+.job-card {
+  transition: box-shadow 0.2s;
+}
+.job-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+}
 
